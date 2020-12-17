@@ -1,0 +1,46 @@
+,facility_identification:S0_04,facility_identification:S0_05,facility_identification:country,facility_identification:province,facility_identification:district,facility_identification:sub_district,facility_identification:sector,facility_identification:facility,facility_identification:S0_12,facility_identification:S0_13
+0,aggree,2019-11-11 00:00:00.0,Rwanda,North,Musanze District,Ruhengeri Sub District,Muhoza,Ruhengeri PH,public,urban
+1,aggree,2019-11-12 00:00:00.0,Rwanda,West,Rubavu District,Gisenyi Sub District,Gisenyi,Gisenyi DH,public,urban
+2,aggree,2019-11-12 00:00:00.0,Rwanda,South,Kamonyi District,Remera Rukoma Sub District,Rukoma,Remera Rukoma DH,faith_based,rural
+3,aggree,2019-11-12 00:00:00.0,Rwanda,East,Rwamagana District,Rwamagana Sub District,Kigabiro,Rwamagana PH,public,urban
+4,aggree,2019-11-11 00:00:00.0,Rwanda,East,Gatsibo District,Kiziguro Sub District,Kiziguro,Kiziguro DH,faith_based,rural
+5,aggree,2019-11-12 00:00:00.0,Rwanda,West,Karongi District,Kirinda Sub District,Murambi,Kirinda DH,faith_based,rural
+6,aggree,2019-11-11 00:00:00.0,Rwanda,East,Nyagatare District,Nyagatare Sub District,NYAGATARE,Nyagatare DH,public,urban
+7,aggree,2019-11-11 00:00:00.0,Rwanda,North,Burera District,Butaro Sub District,Butaro,Butaro DH,public,rural
+8,aggree,2019-11-14 00:00:00.0,Rwanda,West,Karongi District,Kibuye Sub District,Bwishyura,Kibuye DH,public,urban
+9,aggree,2019-11-12 00:00:00.0,Rwanda,North,Gakenke District,Nemba Sub District,Nemba,Nemba DH,public,rural
+10,aggree,2019-11-12 00:00:00.0,Rwanda,South,Gisagara District,Kibilizi Sub District,Kibirizi,Kibilizi (gisagara) CS,public,rural
+11,aggree,2019-11-19 00:00:00.0,Rwanda,North,Gicumbi District,Byumba Sub District,Byumba,Byumba DH,public,urban
+12,aggree,2019-11-18 00:00:00.0,Rwanda,Kigali City,Gasabo District,Kacyiru Sub District,Kacyiru,Kacyiru Police Hospital HM,public,urban
+13,aggree,2019-11-19 00:00:00.0,Rwanda,East,Kayonza District,Gahini Sub District,Gahini,Gahini DH,faith_based,rural
+14,aggree,2019-11-18 00:00:00.0,Rwanda,West,Nyamasheke District,Kibogora Sub District,Kanjongo,Kibogora DH,faith_based,rural
+15,aggree,2019-11-18 00:00:00.0,Rwanda,West,Ngororero District,Muhororo Sub District,MUHORORO,Muhororo DH,public,rural
+16,aggree,2019-11-18 00:00:00.0,Rwanda,Kigali City,Nyarugenge District,Muhima Sub District,Muhima,Muhima DH,public,urban
+17,aggree,2019-11-19 00:00:00.0,Rwanda,South,Nyamagabe District,Kigeme Sub District,Gasaka,Kigeme DH,faith_based,rural
+18,aggree,2019-11-18 00:00:00.0,Rwanda,Kigali City,Kicukiro District,Masaka Sub District,Masaka,Masaka DH,public,urban
+19,aggree,2019-11-18 00:00:00.0,Rwanda,Kigali City,Gasabo District,Kibagabaga Sub District,Kimironko,Kibagabaga PH,public,urban
+20,aggree,2019-11-18 00:00:00.0,Rwanda,South,Nyamagabe District,Kaduha Sub District,Kaduha,Kaduha DH,public,rural
+21,aggree,2019-11-19 00:00:00.0,Rwanda,North,Rulindo District,Kinihira Sub District,KINIHIRA (Rulindo),Kinihira DH,public,rural
+22,aggree,2019-11-18 00:00:00.0,Rwanda,West,Karongi District,Kirinda Sub District,Murambi,Kirinda DH,faith_based,rural
+23,aggree,2019-11-25 00:00:00.0,Rwanda,East,Bugesera District,Nyamata Sub District,Nyamata,Nyamata DH,faith_based,rural
+24,aggree,2019-11-25 00:00:00.0,Rwanda,Kigali City,Kicukiro District,Masaka Sub District,Masaka,Masaka DH,public,urban
+25,aggree,2019-11-25 00:00:00.0,Rwanda,North,Rulindo District,Rutongo Sub District,MASORO,Rutongo DH,public,rural
+26,aggree,2019-11-26 00:00:00.0,Rwanda,East,Ngoma District,Kibungo Sub District,Kibungo,Kibungo DH,public,rural
+27,aggree,2019-11-25 00:00:00.0,Rwanda,West,Ngororero District,Kabaya Sub District,KABAYA,Kabaya DH,public,rural
+28,aggree,2019-11-25 00:00:00.0,Rwanda,West,Nyamasheke District,Bushenge Sub District,Bushenge,Bushenge DH,public,rural
+29,aggree,2019-11-25 00:00:00.0,Rwanda,West,Rusizi District,Mibilizi Sub District,Gashonga,Mibilizi DH,faith_based,rural
+30,aggree,2019-11-25 00:00:00.0,Rwanda,South,Nyanza District,Nyanza Sub District,Busasamana,Nyanza DH,public,semi-urban
+31,aggree,2019-11-26 00:00:00.0,Rwanda,East,Kayonza District,Rwinkwavu Sub District,Rwinkwavu,Rwinkwavu DH,public,rural
+32,aggree,2019-11-25 00:00:00.0,Rwanda,West,Rusizi District,Gihundwe Sub District,Kamembe,Gihundwe DH,public,urban
+33,aggree,2019-11-25 00:00:00.0,Rwanda,South,Muhanga District,Kabgayi Sub District,Nyamabuye,Kabgayi PH,faith_based,rural
+34,aggree,2019-11-25 00:00:00.0,Rwanda,South,Ruhango District,Gitwe Sub District,Bweramana,Gitwe DH,faith_based,rural
+35,aggree,2019-12-03 00:00:00.0,Rwanda,West,Nyabihu District,Shyira Sub District,Shyira,Shyira DH,faith_based,rural
+36,aggree,2019-12-02 00:00:00.0,Rwanda,West,Karongi District,Mugonero Sub District,Gishyita,Mugonero DH,faith_based,rural
+37,aggree,2019-12-02 00:00:00.0,Rwanda,South,Huye District,Kabutare Sub District,Ngoma (Huye District),Kabutare DH,faith_based,urban
+38,aggree,2019-12-03 00:00:00.0,Rwanda,South,Nyaruguru District,Munini Sub District,Munini,Munini DH,public,rural
+39,aggree,2019-12-02 00:00:00.0,Rwanda,North,Gakenke District,Ruli Sub District,Ruli,Ruli DH,faith_based,rural
+40,aggree,2019-12-02 00:00:00.0,Rwanda,West,Rutsiro District,Murunda Sub District,Murunda,Murunda DH,faith_based,rural
+41,aggree,2019-12-02 00:00:00.0,Rwanda,South,Ruhango District,Ruhango Sub District,Kinazi (Ruhango  District),Ruhango DH,public,urban
+42,aggree,2019-12-02 00:00:00.0,Rwanda,East,Gatsibo District,Ngarama Sub District,Ngarama,Ngarama DH,public,rural
+43,aggree,2019-12-02 00:00:00.0,Rwanda,East,Kirehe District,Kirehe Sub District,Kirehe,Kirehe DH,public,rural
+44,aggree,2019-12-03 00:00:00.0,Rwanda,South,Gisagara District,Gakoma Sub District,Mamba,Gakoma DH,public,rural
